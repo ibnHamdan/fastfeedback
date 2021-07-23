@@ -8,8 +8,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^1.0.14",
+    "@chakra-ui/react": "^1.6.5",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "data-fns": "^0.1.8",
+    "date-fns": "^2.22.1",
+    "firebase": "^8.7.1",
+    "firebase-admin": "^9.11.0",
+    "framer-motion": "^4",
     "next": "10.x",
     "react": "17.x",
-    "react-dom": "17.x"
+    "react-dom": "17.x",
+    "react-hook-form": "^7.11.0",
+    "swr": "^0.5.6"
   }
 }
